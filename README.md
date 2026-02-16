@@ -20,8 +20,6 @@ Features real‑time search, clean UI, and smooth audio playback.
 - ExoPlayer
 - Coroutines + Flow
 
-## 📱 Screenshots
-(Add screenshots here later)
 
 ## 🚀 How to Run
 1. Clone the repo  
